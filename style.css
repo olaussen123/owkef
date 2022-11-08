@@ -116,7 +116,7 @@ nav ul li a:hover{
 
 .container::before {    
     content: "";
-    background-image: url(/wallpaper1.jpeg);
+    background: url(wallpaper1.jpeg);
     background-size: cover;
     background-attachment: fixed;
     position: absolute;
